@@ -6,7 +6,9 @@ Sales forecasting and product trend analysis for dropshippers using Python and t
 
 - ## 📂 Dataset
 Download the dataset here before running the notebook:
+
 https://drive.google.com/drive/folders/1q7REDYXrHq4Cp5Sxzl06_IRoq22aEALh?usp=sharing
+
 After downloading, place the dataset in the same folder as the notebook before running.
 
 
