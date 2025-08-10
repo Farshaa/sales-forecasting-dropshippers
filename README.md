@@ -17,6 +17,7 @@ After downloading, place the dataset in the same folder as the notebook before r
 - Pandas
 - Matplotlib, Seaborn
 - Prophet
+- XGBoost
 
 - ## 🚀 How to Run
 1. Download the repository.
